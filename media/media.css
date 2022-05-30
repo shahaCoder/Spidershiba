@@ -1,0 +1,155 @@
+д
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ @media only screen and (max-width: 1800px){
+    
+      .right-second-block{
+          width: 650px !important;
+      }
+    
+      .left-four-block{
+          width: 650px !important;
+      }
+} 
+
+@media only screen and (max-width: 2930px){
+    .dsp-1{
+        display: none;
+    }
+
+    .about-mr_shiba{
+        font-size: 50px !important;
+    }
+ 
+
+    .little-text-info{
+        font-size: 20px !important;
+    }
+
+    .header-top-text{
+        max-width: 500px;
+        font-size: 20px !important;
+    }
+
+    .left-container{
+        margin-left: 300px;
+    }
+
+
+    .right-container{
+        margin-right: 300px;
+    }
+
+    .join-btn{
+        width: 195px !important;
+        height: 60px !important;
+        font-size: 20px !important;
+    }
+
+    .join-btn2{
+        width: 279px !important;
+        height: 60px !important;
+        font-size: 18px !important;
+    }
+
+    .input-block{
+      width: 502px !important;
+      height: 55px;
+    }
+
+    .address-text2{
+        font-size: 16px !important;
+    }
+
+    .left-center-wrap{
+        margin-left: 300px;
+    }
+
+    .main-img-shibu{
+        height: 500px;
+        margin-left: 180px;
+    }
+
+    .grid-block{
+        width: 450px !important;
+    }
+
+     .title-text{
+         font-size: 24px !important;
+     }
+
+    .grid-text{
+       font-size: 16px !important;
+    }
+
+    .grid-block span{
+        font-size: 16px !important;
+    }
+
+    .item-game{
+        width: 1400px !important;
+    }
+
+    .game-plot{
+        font-size: 22px !important;
+        margin-left: 50px;
+    }
+
+    .big-text{
+        font-size: 14px !important;
+        margin-left: 50px !important;
+    }
+
+    .left-wrap-page2{
+        width: 1049px !important;
+    }
+
+    .goblin-img{
+        left: 430px !important;
+        height: 200px;
+        top: 70px;
+    }
+
+    .vector_1img{
+        top: 80px;
+        left: 430px !important;
+        height: 200px;
+    }
+
+    .spider-dog_2{
+        height: 130px;
+        left: 100px !important;
+    }
+
+    .item-block_3{
+        width: 700px;
+    }
+
+    .cash-text{
+        font-size: 20px !important;
+    }
+
+    .earn-cash-text{
+        font-size: 18px !important;
+    }
+
+    .lwpg2_2{
+        margin-left: 120px;
+    }
+
+    .blue-block button{
+        display: none;
+    }
+
+    .adapt-text{
+        font-size: 20px !important;
+    }
+
+}
+
